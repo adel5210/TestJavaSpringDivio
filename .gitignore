@@ -1,0 +1,10 @@
+.aldryn/
+.divio
+.gradle/
+.settings/
+.vscode/
+bin/
+build/
+
+.project
+.classpath
